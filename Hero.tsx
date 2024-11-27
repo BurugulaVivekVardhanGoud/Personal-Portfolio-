@@ -41,7 +41,7 @@ const Hero = () => {
           
           <div className="md:w-1/2 flex justify-center">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=400&h=400"
+              src="IMG_0359.PNG"
               alt="Vivek Vardhan Goud"
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-[#FFD700] shadow-xl"
             />
